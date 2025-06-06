@@ -23,6 +23,19 @@ Hi! I'm **João Igor**, a 3rd-semester Computer Science student at IFCE
 
 ---
 
+## ⚙️ Estatísticas do GitHub / GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/JIgorsfDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JIgorsfDev&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgorsfDev&layout=compact&theme=tokyonight" />
+  </a>
+
+</div>****
+
+---
+
 ## 💡 Sobre mim / About me
 
 🧠 Novato em programação e animado com cada aprendizado  
