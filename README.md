@@ -32,7 +32,7 @@ Hi! I'm **João Igor**, a 3rd-semester Computer Science student at IFCE
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgorsfDev&layout=compact&theme=tokyonight" />
   </a>
 
-</div>****
+</div>
 
 ---
 
