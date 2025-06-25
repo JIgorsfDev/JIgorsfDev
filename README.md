@@ -1,7 +1,15 @@
-## 👋 Saudações! / Greetings!
-
-Olá! Sou **João Igor**, estudante de Ciência da Computação no IFCE (3º semestre)  
-Hi! I'm **João Igor**, a 3rd-semester Computer Science student at IFCE  
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <h2>👋 Saudações! / Greetings!</h2>
+      <p>Olá! Sou <strong>João Igor</strong>, estudante de Ciência da Computação no IFCE (3º semestre)<br>
+      Hi! I'm <strong>João Igor</strong>, a 3rd-semester Computer Science student at IFCE</p>
+    </td>
+    <td>
+      <img src="tusk.gif" alt="Tusk GIF" width="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -12,7 +20,7 @@ Hi! I'm **João Igor**, a 3rd-semester Computer Science student at IFCE
     <img loading="lazy" src="https://img.shields.io/badge/Beecrowd-121011?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMCIgaGVpZ2h0PSIzMCI+PHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjRkZGIiByeD0iNSIvPjwvc3ZnPg==" alt="Beecrowd" />
   </a>
 
-  <a href="joaoigorsf990@gmail.com" target="_blank">
+  <a href="mailto:joaoigorsf990@gmail.com" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
@@ -45,7 +53,6 @@ Hi! I'm **João Igor**, a 3rd-semester Computer Science student at IFCE
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript" />
 </div>
 
-
 ---
 
 ## 💡 Sobre mim / About me
@@ -62,5 +69,4 @@ Hi! I'm **João Igor**, a 3rd-semester Computer Science student at IFCE
 📚 Naturally nerdy: pop culture, books, music — all things nerdy  
 
 🌱 Em busca de crescer como dev e como pessoa  
-🌱 Always growing — as a dev and as a person  
-
+🌱 Always growing — as a dev and as a person
