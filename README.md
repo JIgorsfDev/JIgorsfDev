@@ -2,8 +2,8 @@
   <tr>
     <td style="vertical-align: top;">
       <h2>👋 Saudações! / Greetings!</h2>
-      <p>Olá! Sou <strong>João Igor</strong>, estudante de Ciência da Computação no IFCE (4º semestre)<br>
-      Hi! I'm <strong>João Igor</strong>, a 4rd-semester Computer Science student at IFCE</p>
+      <p>Olá! Sou <strong>João Igor</strong>, estudante de Ciência da Computação no IFCE (5º semestre)<br>
+      Hi! I'm <strong>João Igor</strong>, a 5rd-semester Computer Science student at IFCE</p>
     </td>
     <td>
       <img src="tusk.gif" alt="Tusk GIF" width="150">
